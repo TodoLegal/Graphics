@@ -1,3 +1,7 @@
+# Tipografía
+
+[Work Sans](https://fonts.google.com/specimen/Work+Sans#standard-styles)
+
 # 🎨 Paleta de colores
 
 
